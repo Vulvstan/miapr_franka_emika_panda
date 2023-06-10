@@ -1,0 +1,8 @@
+float64 x
+float64 y
+float64 z
+float64 box_width
+float64 box_height
+float64 box_depth
+---
+bool status

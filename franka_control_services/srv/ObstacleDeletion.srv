@@ -1,0 +1,6 @@
+#
+# Clear all obstacles from the scene
+#
+bool delete_obstacles
+---
+bool success
